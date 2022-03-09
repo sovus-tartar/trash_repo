@@ -5,4 +5,6 @@
 * run 'git checkout bla'
 
 # Push to server
-* run 'git push --set-upstream origin melnikova'
+* run 'git push --set-upstream origin melnikova' //for thefirst time. then "git push"
+
+
